@@ -1,0 +1,3 @@
+../Firmware_CNC/grbl/crc.c:24:10:grbl_crc8	0	static
+../Firmware_CNC/grbl/crc.c:38:10:modbus_crc16x	12	static
+../Firmware_CNC/grbl/crc.c:62:10:ccitt_crc16	12	static

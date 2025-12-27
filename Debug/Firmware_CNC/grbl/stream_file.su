@@ -1,0 +1,8 @@
+../Firmware_CNC/grbl/stream_file.c:70:22:onFileEnd	16	static
+../Firmware_CNC/grbl/stream_file.c:114:13:onReportHandlersInit	8	static
+../Firmware_CNC/grbl/stream_file.c:91:22:trap_status_messages	0	static
+../Firmware_CNC/grbl/stream_file.c:43:16:stream_read_file	16	static
+../Firmware_CNC/grbl/stream_file.c:123:6:stream_set_type	0	static
+../Firmware_CNC/grbl/stream_file.c:130:6:stream_is_file	0	static
+../Firmware_CNC/grbl/stream_file.c:135:13:stream_redirect_read	32	static
+../Firmware_CNC/grbl/stream_file.c:183:6:stream_redirect_close	16	static

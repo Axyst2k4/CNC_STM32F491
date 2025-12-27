@@ -1,0 +1,14 @@
+../Firmware_CNC/grbl/fs_device.c:145:15:fs_read	24	static
+../Firmware_CNC/grbl/fs_device.c:158:15:fs_write	16	static
+../Firmware_CNC/grbl/fs_device.c:165:15:fs_tell	0	static
+../Firmware_CNC/grbl/fs_device.c:170:13:fs_eof	8	static
+../Firmware_CNC/grbl/fs_device.c:175:12:fs_unlink	0	static
+../Firmware_CNC/grbl/fs_device.c:185:19:fs_opendir	0	static
+../Firmware_CNC/grbl/fs_device.c:190:13:fs_closedir	0	static
+../Firmware_CNC/grbl/fs_device.c:78:21:find	16	static
+../Firmware_CNC/grbl/fs_device.c:194:12:fs_stat	8	static
+../Firmware_CNC/grbl/fs_device.c:138:13:fs_close	0	static
+../Firmware_CNC/grbl/fs_device.c:100:20:fs_open	16	static
+../Firmware_CNC/grbl/fs_device.c:180:12:fs_dirop	0	static
+../Firmware_CNC/grbl/fs_device.c:41:6:device_fs_add_stream	16	static
+../Firmware_CNC/grbl/fs_device.c:203:6:fs_device_mount	8	static

@@ -1,0 +1,15 @@
+../Firmware_CNC/grbl/canbus.c:93:22:canbus_queue_rx	2
+../Firmware_CNC/grbl/canbus.c:138:17:canbus_get_baud	1
+../Firmware_CNC/grbl/canbus.c:151:13:canbus_settings_restore	1
+../Firmware_CNC/grbl/canbus.c:66:28:can_start	1
+../Firmware_CNC/grbl/canbus.c:158:13:canbus_settings_load	2
+../Firmware_CNC/grbl/canbus.c:71:28:can_stop	1
+../Firmware_CNC/grbl/canbus.c:76:28:can_set_baud	1
+../Firmware_CNC/grbl/canbus.c:131:22:canbus_set_baud	1
+../Firmware_CNC/grbl/canbus.c:81:28:can_put	1
+../Firmware_CNC/grbl/canbus.c:109:13:canbus_poll	5
+../Firmware_CNC/grbl/canbus.c:86:28:can_add_filter	1
+../Firmware_CNC/grbl/canbus.c:165:6:canbus_enabled	1
+../Firmware_CNC/grbl/canbus.c:170:6:canbus_queue_tx	2
+../Firmware_CNC/grbl/canbus.c:184:6:canbus_add_filter	1
+../Firmware_CNC/grbl/canbus.c:189:6:canbus_init	2

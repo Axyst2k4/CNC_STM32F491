@@ -1,0 +1,13 @@
+../Firmware_CNC/grbl/motion_control.c:417:21:eval_bezier	1
+../Firmware_CNC/grbl/motion_control.c:82:6:mc_line	10
+../Firmware_CNC/grbl/motion_control.c:214:6:mc_arc	15
+../Firmware_CNC/grbl/motion_control.c:477:6:mc_cubic_b_spline	9
+../Firmware_CNC/grbl/motion_control.c:677:6:mc_thread	27
+../Firmware_CNC/grbl/motion_control.c:798:15:mc_jog_execute	6
+../Firmware_CNC/grbl/motion_control.c:830:6:mc_dwell	2
+../Firmware_CNC/grbl/motion_control.c:567:6:mc_canned_drill	24
+../Firmware_CNC/grbl/motion_control.c:993:12:mc_probe_cycle	23
+../Firmware_CNC/grbl/motion_control.c:1119:6:mc_parking_motion	3
+../Firmware_CNC/grbl/motion_control.c:1137:6:mc_override_ctrl_update	4
+../Firmware_CNC/grbl/motion_control.c:1161:15:mc_reset	11
+../Firmware_CNC/grbl/motion_control.c:841:15:mc_homing_cycle	27

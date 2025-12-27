@@ -1,0 +1,9 @@
+../Firmware_CNC/grbl/probe.c:119:22:probe_get_caps	4
+../Firmware_CNC/grbl/probe.c:132:13:is_triggered	4
+../Firmware_CNC/grbl/probe.c:146:22:get_state	2
+../Firmware_CNC/grbl/probe.c:97:13:probe_select	8
+../Firmware_CNC/grbl/probe.c:51:13:probe_connected_toggle	8
+../Firmware_CNC/grbl/probe.c:68:13:probe_configure	10
+../Firmware_CNC/grbl/probe.c:36:13:probe_irq_handler	3
+../Firmware_CNC/grbl/probe.c:161:6:probe_add	10
+../Firmware_CNC/grbl/probe.c:215:6:probe_connected_event	6

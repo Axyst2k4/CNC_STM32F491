@@ -1,0 +1,5 @@
+../Core/Src/Src_F4/pwm.c:98:6:pwm_is_available	9
+../Core/Src/Src_F4/pwm.c:118:21:pwm_claim	14
+../Core/Src/Src_F4/pwm.c:152:6:pwm_enable	1
+../Core/Src/Src_F4/pwm.c:169:6:pwm_config	4
+../Core/Src/Src_F4/pwm.c:204:10:pwm_get_clock_hz	1

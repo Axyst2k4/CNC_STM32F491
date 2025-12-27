@@ -1,0 +1,12 @@
+../Core/Src/Src_F4/driver_spindles.c:171:22:spindleGetPWM	1
+../Core/Src/Src_F4/driver_spindles.c:246:24:spindleGetState	1
+../Core/Src/Src_F4/driver_spindles.c:196:13:spindleConfig	6
+../Core/Src/Src_F4/driver_spindles.c:504:13:settingsChanged	3
+../Core/Src/Src_F4/driver_spindles.c:133:13:pwm_off.isra	4
+../Core/Src/Src_F4/driver_spindles.c:87:20:spindle_on.isra	4
+../Core/Src/Src_F4/driver_spindles.c:69:20:spindle_off.isra	4
+../Core/Src/Src_F4/driver_spindles.c:149:13:spindleSetSpeed	6
+../Core/Src/Src_F4/driver_spindles.c:177:13:spindleSetStateVariable	7
+../Core/Src/Src_F4/driver_spindles.c:119:13:spindleSetState	3
+../Core/Src/Src_F4/driver_spindles.c:520:6:aux_out_claim_explicit	6
+../Core/Src/Src_F4/driver_spindles.c:568:6:driver_spindles_init	3

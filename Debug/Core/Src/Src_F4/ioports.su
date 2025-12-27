@@ -1,0 +1,12 @@
+../Core/Src/Src_F4/ioports.c:65:14:digital_out_state	0	static
+../Core/Src/Src_F4/ioports.c:93:14:digital_in_state	0	static
+../Core/Src/Src_F4/ioports.c:212:16:get_pin_info	12	static
+../Core/Src/Src_F4/ioports.c:36:13:digital_out_cfg	24	static
+../Core/Src/Src_F4/ioports.c:75:13:digital_in_cfg	24	static
+../Core/Src/Src_F4/ioports.c:156:16:wait_on_input	32	static
+../Core/Src/Src_F4/ioports.c:59:13:digital_out	0	static
+../Core/Src/Src_F4/ioports.c:233:13:set_pin_description	0	static
+../Core/Src/Src_F4/ioports.c:175:13:register_interrupt_handler	16	static
+../Core/Src/Src_F4/ioports.c:202:13:set_function	0	static
+../Core/Src/Src_F4/ioports.c:166:6:ioports_event	4	static
+../Core/Src/Src_F4/ioports.c:242:6:ioports_init	40	static

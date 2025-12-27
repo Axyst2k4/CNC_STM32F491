@@ -1,0 +1,9 @@
+../Firmware_CNC/grbl/protocol.c:417:13:protocol_poll_cmd	16	static
+../Firmware_CNC/grbl/protocol.c:62:6:protocol_enqueue_gcode	8	static
+../Firmware_CNC/grbl/protocol.c:380:6:protocol_auto_cycle_start	8	static
+../Firmware_CNC/grbl/protocol.c:442:6:protocol_exec_rt_system	32	static
+../Firmware_CNC/grbl/protocol.c:399:6:protocol_execute_realtime	24	static
+../Firmware_CNC/grbl/protocol.c:121:6:protocol_main_loop	48	static
+../Firmware_CNC/grbl/protocol.c:361:6:protocol_buffer_synchronize	8	static
+../Firmware_CNC/grbl/protocol.c:819:15:protocol_enqueue_realtime_command	24	static
+../Firmware_CNC/grbl/protocol.c:1036:6:protocol_execute_noop	0	static

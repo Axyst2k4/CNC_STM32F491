@@ -1,0 +1,13 @@
+../Core/Src/Src_F4/timers.c:76:6:timer_claim	4
+../Core/Src/Src_F4/timers.c:89:6:timer_is_claimed	3
+../Core/Src/Src_F4/timers.c:96:10:timer_get_clock_hz	3
+../Core/Src/Src_F4/timers.c:105:10:timer_clk_enable	3
+../Core/Src/Src_F4/timers.c:129:13:timerClaim	4
+../Core/Src/Src_F4/timers.c:171:6:timerCfg	9
+../Core/Src/Src_F4/timers.c:208:6:timerStart	9
+../Core/Src/Src_F4/timers.c:256:6:timerStop	2
+../Core/Src/Src_F4/timers.c:298:6:TIM1_UP_TIM16_IRQHandler	7
+../Core/Src/Src_F4/timers.c:304:6:TIM3_IRQHandler	7
+../Core/Src/Src_F4/timers.c:314:6:spindle_pwm_init	1
+../Core/Src/Src_F4/timers.c:343:6:spindle_set_speed	2
+../Core/Src/Src_F4/timers.c:355:6:spindle_stop	1

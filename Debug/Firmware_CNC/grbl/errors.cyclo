@@ -1,0 +1,3 @@
+../Firmware_CNC/grbl/errors.c:120:6:errors_register	1
+../Firmware_CNC/grbl/errors.c:126:18:errors_get_details	1
+../Firmware_CNC/grbl/errors.c:131:13:errors_get_description	6

@@ -1,0 +1,16 @@
+../Firmware_CNC/grbl/machine_limits.c:666:13:check_travel_limits	16	static
+../Firmware_CNC/grbl/machine_limits.c:818:13:apply_travel_limits	16	static
+../Firmware_CNC/grbl/machine_limits.c:682:13:check_arc_travel_limits	104	static
+../Firmware_CNC/grbl/machine_limits.c:180:13:limits_pull_off	88	static
+../Firmware_CNC/grbl/machine_limits.c:655:14:get_homing_rate	0	static
+../Firmware_CNC/grbl/machine_limits.c:44:25:limit_signals_merge	8	static
+../Firmware_CNC/grbl/machine_limits.c:84:15:limit_interrupt_handler	16	static
+../Firmware_CNC/grbl/machine_limits.c:116:6:limits_set_work_envelope	24	static
+../Firmware_CNC/grbl/machine_limits.c:146:6:limits_set_machine_positions	32	static
+../Firmware_CNC/grbl/machine_limits.c:269:13:homing_cycle	160	static
+../Firmware_CNC/grbl/machine_limits.c:170:15:limits_homing_pulloff	0	static
+../Firmware_CNC/grbl/machine_limits.c:535:15:limits_go_home	32	static
+../Firmware_CNC/grbl/machine_limits.c:607:6:limits_soft_check	16	static
+../Firmware_CNC/grbl/machine_limits.c:633:6:limits_set_homing_axes	0	static
+../Firmware_CNC/grbl/machine_limits.c:647:6:limits_homing_required	0	static
+../Firmware_CNC/grbl/machine_limits.c:848:6:limits_init	0	static

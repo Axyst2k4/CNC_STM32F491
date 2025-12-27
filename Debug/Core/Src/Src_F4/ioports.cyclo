@@ -1,0 +1,12 @@
+../Core/Src/Src_F4/ioports.c:65:14:digital_out_state	2
+../Core/Src/Src_F4/ioports.c:93:14:digital_in_state	2
+../Core/Src/Src_F4/ioports.c:212:16:get_pin_info	5
+../Core/Src/Src_F4/ioports.c:36:13:digital_out_cfg	7
+../Core/Src/Src_F4/ioports.c:75:13:digital_in_cfg	6
+../Core/Src/Src_F4/ioports.c:156:16:wait_on_input	13
+../Core/Src/Src_F4/ioports.c:59:13:digital_out	4
+../Core/Src/Src_F4/ioports.c:233:13:set_pin_description	5
+../Core/Src/Src_F4/ioports.c:175:13:register_interrupt_handler	6
+../Core/Src/Src_F4/ioports.c:202:13:set_function	2
+../Core/Src/Src_F4/ioports.c:166:6:ioports_event	3
+../Core/Src/Src_F4/ioports.c:242:6:ioports_init	1

@@ -1,0 +1,10 @@
+../Firmware_CNC/grbl/stream_json.c:58:13:add_tag	3
+../Firmware_CNC/grbl/stream_json.c:35:13:json_start	3
+../Firmware_CNC/grbl/stream_json.c:48:6:json_end	2
+../Firmware_CNC/grbl/stream_json.c:78:6:json_start_object	3
+../Firmware_CNC/grbl/stream_json.c:93:6:json_start_tagged_object	2
+../Firmware_CNC/grbl/stream_json.c:104:6:json_end_object	2
+../Firmware_CNC/grbl/stream_json.c:114:6:json_start_array	2
+../Firmware_CNC/grbl/stream_json.c:125:6:json_end_array	2
+../Firmware_CNC/grbl/stream_json.c:135:6:json_add_string	19
+../Firmware_CNC/grbl/stream_json.c:225:6:json_add_int	3

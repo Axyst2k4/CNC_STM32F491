@@ -1,0 +1,17 @@
+../Firmware_CNC/grbl/stepper2.c:106:13:st2_reset	2
+../Firmware_CNC/grbl/stepper2.c:564:22:motor_irq	16
+../Firmware_CNC/grbl/stepper2.c:94:13:st_motor_config	1
+../Firmware_CNC/grbl/stepper2.c:122:13:st2_settings_changed	3
+../Firmware_CNC/grbl/stepper2.c:214:6:st2_motor_register_stopped_callback	1
+../Firmware_CNC/grbl/stepper2.c:225:6:st2_motor_bind_spindle	2
+../Firmware_CNC/grbl/stepper2.c:257:14:st2_motor_init	9
+../Firmware_CNC/grbl/stepper2.c:309:7:st2_get_speed	2
+../Firmware_CNC/grbl/stepper2.c:463:9:st2_get_position	1
+../Firmware_CNC/grbl/stepper2.c:475:6:st2_set_position	2
+../Firmware_CNC/grbl/stepper2.c:579:6:st2_motor_run	18
+../Firmware_CNC/grbl/stepper2.c:601:6:st2_motor_stop	5
+../Firmware_CNC/grbl/stepper2.c:322:7:st2_motor_set_speed	10
+../Firmware_CNC/grbl/stepper2.c:389:6:st2_motor_move	13
+../Firmware_CNC/grbl/stepper2.c:630:6:st2_motor_poll	1
+../Firmware_CNC/grbl/stepper2.c:639:6:st2_motor_running	1
+../Firmware_CNC/grbl/stepper2.c:648:6:st2_motor_cruising	1

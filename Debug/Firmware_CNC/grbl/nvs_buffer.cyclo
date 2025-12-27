@@ -1,0 +1,11 @@
+../Firmware_CNC/grbl/nvs_buffer.c:129:23:ram_get_byte	1
+../Firmware_CNC/grbl/nvs_buffer.c:134:20:ram_put_byte	4
+../Firmware_CNC/grbl/nvs_buffer.c:209:30:memcpy_from_ram	6
+../Firmware_CNC/grbl/nvs_buffer.c:142:30:memcpy_to_ram	19
+../Firmware_CNC/grbl/nvs_buffer.c:227:6:nvs_buffer_alloc	5
+../Firmware_CNC/grbl/nvs_buffer.c:251:6:nvs_buffer_init	9
+../Firmware_CNC/grbl/nvs_buffer.c:296:15:nvs_alloc	6
+../Firmware_CNC/grbl/nvs_buffer.c:325:6:nvs_buffer_sync_physical	21
+../Firmware_CNC/grbl/nvs_buffer.c:241:6:nvs_buffer_free	2
+../Firmware_CNC/grbl/nvs_buffer.c:400:11:nvs_buffer_get_physical	1
+../Firmware_CNC/grbl/nvs_buffer.c:409:6:nvs_memmap	1

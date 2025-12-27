@@ -1,0 +1,4 @@
+../Firmware_CNC/grbl/pid.c:34:6:pidf_init	0	static
+../Firmware_CNC/grbl/pid.c:40:6:pidf_config_changed	8	static
+../Firmware_CNC/grbl/pid.c:45:6:pidf_reset	0	static
+../Firmware_CNC/grbl/pid.c:53:7:pidf	0	static

@@ -1,0 +1,12 @@
+../Firmware_CNC/grbl/nuts_bolts.c:98:7:uitoa	8	static
+../Firmware_CNC/grbl/nuts_bolts.c:117:7:ftoa	20	static
+../Firmware_CNC/grbl/nuts_bolts.c:172:7:trim_float	8	static
+../Firmware_CNC/grbl/nuts_bolts.c:186:15:read_uint	20	static
+../Firmware_CNC/grbl/nuts_bolts.c:244:6:read_float	24	static
+../Firmware_CNC/grbl/nuts_bolts.c:309:6:isintf	16	static
+../Firmware_CNC/grbl/nuts_bolts.c:315:6:delay_sec	24	static
+../Firmware_CNC/grbl/nuts_bolts.c:334:7:convert_delta_vector_to_unit_vector	8	static
+../Firmware_CNC/grbl/nuts_bolts.c:356:12:get_datetime	20	static
+../Firmware_CNC/grbl/nuts_bolts.c:417:7:strcaps	12	static
+../Firmware_CNC/grbl/nuts_bolts.c:433:14:bit_count	0	static
+../Firmware_CNC/grbl/nuts_bolts.c:445:6:dummy_handler	0	static

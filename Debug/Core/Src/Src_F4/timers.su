@@ -1,0 +1,13 @@
+../Core/Src/Src_F4/timers.c:76:6:timer_claim	0	static
+../Core/Src/Src_F4/timers.c:89:6:timer_is_claimed	0	static
+../Core/Src/Src_F4/timers.c:96:10:timer_get_clock_hz	0	static
+../Core/Src/Src_F4/timers.c:105:10:timer_clk_enable	16	static
+../Core/Src/Src_F4/timers.c:129:13:timerClaim	16	static,ignoring_inline_asm
+../Core/Src/Src_F4/timers.c:171:6:timerCfg	12	static
+../Core/Src/Src_F4/timers.c:208:6:timerStart	0	static
+../Core/Src/Src_F4/timers.c:256:6:timerStop	0	static
+../Core/Src/Src_F4/timers.c:298:6:TIM1_UP_TIM16_IRQHandler	8	static
+../Core/Src/Src_F4/timers.c:304:6:TIM3_IRQHandler	8	static
+../Core/Src/Src_F4/timers.c:314:6:spindle_pwm_init	8	static
+../Core/Src/Src_F4/timers.c:343:6:spindle_set_speed	0	static
+../Core/Src/Src_F4/timers.c:355:6:spindle_stop	0	static

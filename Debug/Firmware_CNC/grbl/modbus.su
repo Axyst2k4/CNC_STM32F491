@@ -1,0 +1,9 @@
+../Firmware_CNC/grbl/modbus.c:35:14:modbus_isup	32	static
+../Firmware_CNC/grbl/modbus.c:61:6:modbus_isbusy	16	static
+../Firmware_CNC/grbl/modbus.c:88:6:modbus_enabled	0	static
+../Firmware_CNC/grbl/modbus.c:93:6:modbus_flush_queue	16	static
+../Firmware_CNC/grbl/modbus.c:102:6:modbus_set_silence	0	static
+../Firmware_CNC/grbl/modbus.c:108:6:modbus_send	24	static
+../Firmware_CNC/grbl/modbus.c:118:10:modbus_read_u16	0	static
+../Firmware_CNC/grbl/modbus.c:123:6:modbus_write_u16	0	static
+../Firmware_CNC/grbl/modbus.c:129:6:modbus_register_api	20	static

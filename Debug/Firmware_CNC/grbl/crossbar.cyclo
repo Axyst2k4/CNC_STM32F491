@@ -1,0 +1,8 @@
+../Firmware_CNC/grbl/crossbar.c:26:16:xbar_fn_to_axismask	9
+../Firmware_CNC/grbl/crossbar.c:127:6:xbar_set_homing_source	2
+../Firmware_CNC/grbl/crossbar.c:138:26:xbar_get_homing_source	1
+../Firmware_CNC/grbl/crossbar.c:144:17:xbar_get_homing_source_from_cycle	2
+../Firmware_CNC/grbl/crossbar.c:160:13:xbar_fn_to_pinname	4
+../Firmware_CNC/grbl/crossbar.c:174:13:xbar_group_to_description	2
+../Firmware_CNC/grbl/crossbar.c:179:19:xbar_fn_to_signals_mask	2
+../Firmware_CNC/grbl/crossbar.c:188:13:xbar_resolution_to_string	2

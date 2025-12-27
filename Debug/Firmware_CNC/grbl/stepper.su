@@ -1,0 +1,14 @@
+../Firmware_CNC/grbl/stepper.c:183:6:st_deenergize	8	static
+../Firmware_CNC/grbl/stepper.c:193:6:st_wake_up	16	static
+../Firmware_CNC/grbl/stepper.c:213:15:st_go_idle	16	static
+../Firmware_CNC/grbl/stepper.c:238:6:st_is_stepping	0	static
+../Firmware_CNC/grbl/stepper.c:409:15:stepper_driver_interrupt_handler	16	static
+../Firmware_CNC/grbl/stepper.c:667:6:st_reset	24	static
+../Firmware_CNC/grbl/stepper.c:719:6:st_rpm_changed	0	static
+../Firmware_CNC/grbl/stepper.c:725:6:st_update_plan_block_parameters	16	static
+../Firmware_CNC/grbl/stepper.c:754:6:st_parking_setup_buffer	16	static
+../Firmware_CNC/grbl/stepper.c:772:6:st_parking_restore_buffer	16	static
+../Firmware_CNC/grbl/stepper.c:803:6:st_prep_buffer	64	static
+../Firmware_CNC/grbl/stepper.c:1294:7:st_get_realtime_rate	8	static
+../Firmware_CNC/grbl/stepper.c:1305:13:st_get_offset_id	8	static
+../Firmware_CNC/grbl/stepper.c:1319:16:st_get_enable_out	0	static

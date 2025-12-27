@@ -1,0 +1,11 @@
+../Firmware_CNC/grbl/ngc_flowctrl.c:244:13:clear_subs	6
+../Firmware_CNC/grbl/ngc_flowctrl.c:222:19:add_sub	4
+../Firmware_CNC/grbl/ngc_flowctrl.c:278:13:stack_pull	4
+../Firmware_CNC/grbl/ngc_flowctrl.c:324:22:onGcodeComment	5
+../Firmware_CNC/grbl/ngc_flowctrl.c:265:22:stack_push	4
+../Firmware_CNC/grbl/ngc_flowctrl.c:294:13:stack_unwind_sub	12
+../Firmware_CNC/grbl/ngc_flowctrl.c:317:6:ngc_flowctrl_unwind_stack	3
+../Firmware_CNC/grbl/ngc_flowctrl.c:399:22:onNamedSubEOF	3
+../Firmware_CNC/grbl/ngc_flowctrl.c:346:6:ngc_flowctrl_init	3
+../Firmware_CNC/grbl/ngc_flowctrl.c:363:22:onNamedSubError	8
+../Firmware_CNC/grbl/ngc_flowctrl.c:409:15:ngc_flowctrl	171

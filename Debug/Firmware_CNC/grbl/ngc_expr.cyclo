@@ -1,0 +1,10 @@
+../Firmware_CNC/grbl/ngc_expr.c:353:22:read_operation	28
+../Firmware_CNC/grbl/ngc_expr.c:935:15:get_format	7
+../Firmware_CNC/grbl/ngc_expr.c:592:15:ngc_read_name	5
+../Firmware_CNC/grbl/ngc_expr.c:842:15:ngc_read_integer_unsigned	2
+../Firmware_CNC/grbl/ngc_expr.c:884:15:ngc_eval_expression	42
+../Firmware_CNC/grbl/ngc_expr.c:796:15:ngc_read_real_value	80
+../Firmware_CNC/grbl/ngc_expr.c:861:15:ngc_read_integer_value	3
+../Firmware_CNC/grbl/ngc_expr.c:637:15:ngc_read_parameter	9
+../Firmware_CNC/grbl/ngc_expr.c:994:7:ngc_substitute_parameters	19
+../Firmware_CNC/grbl/ngc_expr.c:1075:7:ngc_process_comment	5
